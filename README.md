@@ -9,9 +9,9 @@
    # Product Page (cont.) 
       
 ![Screenshot (5)](https://user-images.githubusercontent.com/91620114/155885865-3aeeebfb-45a2-4d90-83ce-227ad489def9.png)
- # products page (cont.) 
+ # products page
 ![Screenshot (6)](https://user-images.githubusercontent.com/91620114/155885869-833fe9fd-b301-475f-a57f-8641a2f6b34b.png)
- # This is the about page 
+ # about page 
 ![Screenshot (7)](https://user-images.githubusercontent.com/91620114/155885872-01574a5a-6f33-4be3-bbf7-e0598ed4398c.png)
  # sale page 
 ![Screenshot (8)](https://user-images.githubusercontent.com/91620114/155885874-39e45933-5645-4673-b1d6-f0d16d42092c.png)
