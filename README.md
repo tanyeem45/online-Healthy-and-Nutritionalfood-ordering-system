@@ -4,9 +4,9 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/91620114/155885856-fd33a4e8-bd77-49e6-97eb-79404f132fcc.png)
      # Featured products 
 ![Screenshot (3)](https://user-images.githubusercontent.com/91620114/155885860-523361a7-0796-4270-90d3-bf25624e585f.png)
-     # products page (cont.) 
+     # products page(cont.) 
 ![Screenshot (4)](https://user-images.githubusercontent.com/91620114/155885861-a285e42c-af81-4a31-85f7-3e102b0ddad5.png)
-     # products page (cont.) 
+     #Product Page (cont.) 
       
 ![Screenshot (5)](https://user-images.githubusercontent.com/91620114/155885865-3aeeebfb-45a2-4d90-83ce-227ad489def9.png)
  # products page (cont.) 
@@ -15,7 +15,7 @@
 ![Screenshot (7)](https://user-images.githubusercontent.com/91620114/155885872-01574a5a-6f33-4be3-bbf7-e0598ed4398c.png)
      # sale page 
 ![Screenshot (8)](https://user-images.githubusercontent.com/91620114/155885874-39e45933-5645-4673-b1d6-f0d16d42092c.png)
-     #Service page 
+    # Service page
 ![Screenshot (9)](https://user-images.githubusercontent.com/91620114/155885876-0eca9308-16d6-4548-9410-76e0e4d58fce.png)
    # Review page
 ![Screenshot (10)](https://user-images.githubusercontent.com/91620114/155885878-8f6bfc84-6949-4f9a-9046-cb85063c00ce.png)
