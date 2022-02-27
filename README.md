@@ -21,6 +21,6 @@
 ![Screenshot (10)](https://user-images.githubusercontent.com/91620114/155885878-8f6bfc84-6949-4f9a-9046-cb85063c00ce.png)
   # Contact Page
 ![Screenshot (11)](https://user-images.githubusercontent.com/91620114/155885880-e5417a8f-fe9a-4efb-9135-a9bf9b71ab9f.png)
-    # copyright 
+    # Copyright Page
 ![Screenshot (12)](https://user-images.githubusercontent.com/91620114/155885882-0432951b-ac28-4d99-a68f-2d71c5e7cade.png)
  # This is the shopping page 
