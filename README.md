@@ -10,7 +10,7 @@
  # products page(cont.) 
       
 ![Screenshot (5)](https://user-images.githubusercontent.com/91620114/155885865-3aeeebfb-45a2-4d90-83ce-227ad489def9.png)
-  # about page 
+  # About page 
 ![Screenshot (6)](https://user-images.githubusercontent.com/91620114/155885869-833fe9fd-b301-475f-a57f-8641a2f6b34b.png)
  # sale page 
 ![Screenshot (7)](https://user-images.githubusercontent.com/91620114/155885872-01574a5a-6f33-4be3-bbf7-e0598ed4398c.png)
