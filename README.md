@@ -29,7 +29,7 @@
 ![Screenshot (11)](https://user-images.githubusercontent.com/91620114/155885880-e5417a8f-fe9a-4efb-9135-a9bf9b71ab9f.png)
   # shopping page(we easily buy healthy fruits and vegetables to click on the PayUMoney button) 
 ![Screenshot (12)](https://user-images.githubusercontent.com/91620114/155885882-0432951b-ac28-4d99-a68f-2d71c5e7cade.png)
-# Project Video
+#  Video of Project
 
 https://user-images.githubusercontent.com/91620114/157897245-50e08d9d-d22f-4da9-b44e-9c4d7ead3d4b.mp4
 
