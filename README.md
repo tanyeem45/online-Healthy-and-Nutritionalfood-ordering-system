@@ -21,7 +21,7 @@
 ![Screenshot (7)](https://user-images.githubusercontent.com/91620114/155885872-01574a5a-6f33-4be3-bbf7-e0598ed4398c.png)
   # Service page
 ![Screenshot (8)](https://user-images.githubusercontent.com/91620114/155885874-39e45933-5645-4673-b1d6-f0d16d42092c.png)
-# Review page
+# Review page(some of the cusyomer give review on the website)
 ![Screenshot (9)](https://user-images.githubusercontent.com/91620114/155885876-0eca9308-16d6-4548-9410-76e0e4d58fce.png)
  # Contact Page
 ![Screenshot (10)](https://user-images.githubusercontent.com/91620114/155885878-8f6bfc84-6949-4f9a-9046-cb85063c00ce.png)
