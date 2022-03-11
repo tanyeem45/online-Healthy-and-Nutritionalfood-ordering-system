@@ -25,6 +25,6 @@
 ![Screenshot (10)](https://user-images.githubusercontent.com/91620114/155885878-8f6bfc84-6949-4f9a-9046-cb85063c00ce.png)
  # Copyright Page
 ![Screenshot (11)](https://user-images.githubusercontent.com/91620114/155885880-e5417a8f-fe9a-4efb-9135-a9bf9b71ab9f.png)
-  # shopping page(we easily buy healthy fruits and vegetables to click o the PayUMoney button) 
+  # shopping page(we easily buy healthy fruits and vegetables to click on the PayUMoney button) 
 ![Screenshot (12)](https://user-images.githubusercontent.com/91620114/155885882-0432951b-ac28-4d99-a68f-2d71c5e7cade.png)
 
