@@ -31,7 +31,6 @@
 ![Screenshot (12)](https://user-images.githubusercontent.com/91620114/155885882-0432951b-ac28-4d99-a68f-2d71c5e7cade.png)
 #  Video of Project
 
-https://user-images.githubusercontent.com/91620114/157897245-50e08d9d-d22f-4da9-b44e-9c4d7ead3d4b.mp4
 
 
 
